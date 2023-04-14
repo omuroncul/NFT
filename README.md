@@ -2,7 +2,7 @@
 
 3 Boyutlu resimlerin canlı artırma yapılarak satışa sunulmasını sağlayan site uygulaması.
 
-<h2> Kullanılan Teknolijiler </h2>
+<h2> Kullanılan Teknolojiler </h2>
 
 HTML VE CSS kullanılarak oluşturulmuştur.
 
